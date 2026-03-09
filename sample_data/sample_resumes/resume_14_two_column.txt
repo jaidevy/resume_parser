@@ -1,0 +1,73 @@
+CARLOS MENDES                          carlos.mendes@email.com
+Full Stack Developer                   +55 11 98765-4321
+São Paulo, SP, Brazil                  github.com/carlosmendes
+                                       linkedin.com/in/carlosmendes
+
+─────────────────────────────────────── ──────────────────────────────────────
+ABOUT ME                               TECHNICAL SKILLS
+─────────────────────────────────────── ──────────────────────────────────────
+Versatile full stack developer with     Languages: JavaScript, TypeScript,
+5 years of experience building          Python, Go, SQL
+scalable web applications. Strong       
+focus on clean architecture,            Frontend: React, Next.js, Vue.js,
+performance optimization, and           Angular, Tailwind CSS, Material UI
+developer experience. Passionate        
+about open source and mentoring         Backend: Node.js, Express, NestJS,
+junior developers.                      Django, FastAPI, GraphQL
+                                        
+                                        Databases: PostgreSQL, MongoDB,
+                                        Redis, Elasticsearch, DynamoDB
+                                        
+                                        DevOps: Docker, Kubernetes, AWS,
+                                        GCP, Terraform, GitHub Actions,
+                                        Jenkins
+                                        
+                                        Testing: Jest, Cypress, Pytest,
+                                        Playwright
+
+─────────────────────────────────────── ──────────────────────────────────────
+WORK EXPERIENCE                        EDUCATION
+─────────────────────────────────────── ──────────────────────────────────────
+Senior Full Stack Developer             B.Sc. Computer Science
+MercadoLibre, São Paulo                 University of São Paulo (USP)
+February 2022 – Present                 2014 – 2018
+• Architected microservices backend     GPA: 8.7 / 10.0
+  serving 50M+ monthly active users     
+• Led frontend migration from           CERTIFICATIONS
+  Angular to React, improving            ──────────────────────────────────
+  performance by 35%                     - AWS Solutions Architect Associate
+• Implemented GraphQL API gateway        - Meta Front-End Developer
+  reducing API calls by 60%             - MongoDB Certified Developer
+• Mentored 6 junior developers          
+                                         LANGUAGES
+Full Stack Developer                     ──────────────────────────────────
+Nubank, São Paulo                        Portuguese (Native)
+July 2019 – January 2022                 English (Fluent)
+• Built real-time fraud detection         Spanish (Intermediate)
+  dashboard using React + WebSockets     
+• Developed RESTful APIs in              OPEN SOURCE
+  Node.js serving 10K+ req/sec           ──────────────────────────────────
+• Implemented CI/CD with GitHub           - react-data-grid (200+ stars)
+  Actions reducing deploy time            - fastapi-template (150+ stars)
+  from 2 hours to 15 minutes             - go-microservices (100+ stars)
+• Built automated testing suite          
+  with 90%+ code coverage               PUBLICATIONS
+                                          ──────────────────────────────────
+Junior Developer                          "Scaling GraphQL at MercadoLibre"
+iFood, Campinas                           – Medium Engineering Blog, 2023
+March 2018 – June 2019                   
+• Developed features for the             "Clean Architecture with NestJS"
+  restaurant partner portal               – Dev.to, 2022
+• Built notification microservice        
+  handling 1M+ push/day                  
+• Wrote unit and integration tests       
+  using Jest and Cypress                 
+
+──────────────────────────────────────────────────────────────────────────────
+PROJECTS
+──────────────────────────────────────────────────────────────────────────────
+React Data Grid | Open source high-performance data grid component for React
+Technologies: React, TypeScript, Virtualization, Canvas API
+
+FastAPI Template | Production-ready FastAPI project template with auth, DB, CI/CD
+Technologies: Python, FastAPI, PostgreSQL, Docker, GitHub Actions

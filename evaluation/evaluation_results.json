@@ -1,0 +1,1646 @@
+{
+  "timestamp": "2026-03-09T15:12:55.040385",
+  "resumes_evaluated": 15,
+  "total_field_checks": 176,
+  "total_passed": 176,
+  "overall_accuracy": 1.0,
+  "per_resume": [
+    {
+      "resume": "resume_01_standard.txt",
+      "total_fields": 13,
+      "passed": 13,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "John Michael Doe",
+          "extracted": "John Michael Doe",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "San Francisco, CA, USA",
+          "extracted": "San Francisco, CA, USA",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "linkedin_url",
+          "expected": "https://linkedin.com/in/johndoe",
+          "extracted": "https://linkedin.com/in/johndoe",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "github_url",
+          "expected": "https://github.com/johndoe",
+          "extracted": "https://github.com/johndoe",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "None",
+          "extracted": "",
+          "match": true,
+          "notes": "Correctly null/empty"
+        },
+        {
+          "field": "email_ids",
+          "expected": "['john.doe@email.com']",
+          "extracted": "['john.doe@email.com']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "['+1-555-123-4567']",
+          "extracted": "['+1-555-123-4567']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "7",
+          "extracted": "7.0",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['Python', 'Django', 'Flask', 'JavaScript', 'React', 'TypeScript', 'PostgreSQL', 'MongoDB', 'Redis', 'Docker', 'Kubernetes', 'AWS', 'Azure', 'CI/CD', 'Git', 'REST APIs', 'GraphQL', 'Agile', 'Scrum', 'TDD']",
+          "extracted": "['Python', 'Django', 'Flask', 'JavaScript', 'React', 'TypeScript', 'PostgreSQL', 'MongoDB', 'Redis', 'Docker', 'Kubernetes', 'AWS', 'Azure', 'CI/CD', 'Git', 'REST APIs', 'GraphQL', 'Agile', 'Scrum', 'TDD']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "3",
+          "extracted": "3",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "1",
+          "extracted": "1",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "certifications",
+          "expected": "['AWS Certified Solutions Architect - Associate', 'Microsoft Certified: Azure Developer Associate', 'Certified Kubernetes Administrator (CKA)']",
+          "extracted": "['AWS Certified Solutions Architect - Associate (2022)', 'Microsoft Certified: Azure Developer Associate (2023)', 'Certified Kubernetes Administrator (CKA) (2021)']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "languages_known",
+          "expected": "['English', 'Spanish', 'French']",
+          "extracted": "['English', 'Spanish', 'French']",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 1.0,
+        "github_url": 1.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 1.0,
+        "geo_details": 1.0
+      }
+    },
+    {
+      "resume": "resume_02_data_analyst.txt",
+      "total_fields": 13,
+      "passed": 13,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "Sarah Johnson",
+          "extracted": "SARAH JOHNSON",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "New York, NY",
+          "extracted": "New York, NY",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "linkedin_url",
+          "expected": "https://linkedin.com/in/sarahjohnson-data",
+          "extracted": "https://linkedin.com/in/sarahjohnson-data",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "github_url",
+          "expected": "https://github.com/sjohnson-data",
+          "extracted": "https://github.com/sjohnson-data",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "None",
+          "extracted": "",
+          "match": true,
+          "notes": "Correctly null/empty"
+        },
+        {
+          "field": "email_ids",
+          "expected": "['sarah.j@outlook.com', 'sarah.johnson@company.com']",
+          "extracted": "['sarah.j@outlook.com', 'sarah.johnson@company.com']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "['(212) 555-0198']",
+          "extracted": "['(212) 555-0198']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "4",
+          "extracted": "4.0",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['Power BI', 'Power Automate', 'Power Apps', 'Python', 'SQL', 'R']",
+          "extracted": "['Power BI', 'Power Automate', 'Power Apps', 'Dataverse', 'Python', 'SQL', 'R', 'DAX', 'M Query', 'Excel', 'Tableau', 'SSRS', 'SSIS', 'Azure Data Factory', 'Azure SQL', 'Azure DevOps', 'Git', 'Jira', 'Agile', 'Scrum']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "3",
+          "extracted": "3",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "2",
+          "extracted": "2",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "certifications",
+          "expected": "['PL-900', 'DA-100']",
+          "extracted": "['Microsoft Certified: Power Platform Fundamentals (PL-900)', 'Microsoft Certified: Data Analyst Associate (DA-100)', 'Google Data Analytics Professional Certificate', 'Azure Fundamentals (AZ-900)']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "languages_known",
+          "expected": "['English', 'Mandarin']",
+          "extracted": "['English', 'Mandarin']",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 1.0,
+        "github_url": 1.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 0.0,
+        "geo_details": 1.0
+      }
+    },
+    {
+      "resume": "resume_03_cloud_architect.txt",
+      "total_fields": 11,
+      "passed": 11,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "Michael Chen",
+          "extracted": "MICHAEL CHEN",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "London, United Kingdom",
+          "extracted": "London, United Kingdom",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "None",
+          "extracted": "",
+          "match": true,
+          "notes": "Correctly null/empty"
+        },
+        {
+          "field": "email_ids",
+          "expected": "['michael.chen@gmail.com']",
+          "extracted": "['michael.chen@gmail.com']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "['+44-7700-900456']",
+          "extracted": "['+44-7700-900456']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "10",
+          "extracted": "10.0",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['Azure', 'AWS', 'Kubernetes', 'Docker', 'Terraform', 'Python', 'Go']",
+          "extracted": "['Azure Architecture', 'AWS Solutions Design', 'Kubernetes', 'Docker', 'Terraform', 'Infrastructure as Code', 'CI/CD Pipelines', 'DevOps', 'Microservices', 'Serverless Computing', 'Python', 'Go', 'Bash', 'PowerShell', 'Networking', 'Security', 'Cost Optimization', 'Team Leadership']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "4",
+          "extracted": "4",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "2",
+          "extracted": "2",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "certifications",
+          "expected": "['AWS Solutions Architect Professional', 'CKA']",
+          "extracted": "['AWS Solutions Architect Professional', 'Microsoft Certified: Azure Solutions Architect Expert (AZ-305)', 'Certified Kubernetes Administrator (CKA)', 'HashiCorp Certified: Terraform Associate', 'TOGAF 9 Certified']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "languages_known",
+          "expected": "['English', 'Mandarin', 'Cantonese']",
+          "extracted": "['English', 'Mandarin', 'Cantonese']",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 0.0,
+        "github_url": 0.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 1.0,
+        "geo_details": 1.0
+      }
+    },
+    {
+      "resume": "resume_04_ux_designer.txt",
+      "total_fields": 10,
+      "passed": 10,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "Maria Garcia Lopez",
+          "extracted": "Maria Garcia Lopez",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "Barcelona, Spain",
+          "extracted": "Barcelona, Spain",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "None",
+          "extracted": "",
+          "match": true,
+          "notes": "Correctly null/empty"
+        },
+        {
+          "field": "email_ids",
+          "expected": "['maria.garcia@email.com']",
+          "extracted": "['maria.garcia@email.com']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "['+34 612 345 678']",
+          "extracted": "['+34 612 345 678']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "3",
+          "extracted": "3.0",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['Figma', 'React', 'Vue.js', 'JavaScript', 'CSS3', 'HTML5']",
+          "extracted": "['Figma', 'Adobe XD', 'Sketch', 'HTML5', 'CSS3', 'JavaScript', 'React', 'Vue.js', 'Tailwind CSS', 'User Research', 'Wireframing', 'Prototyping', 'Design Systems', 'Accessibility (WCAG)', 'Responsive Design']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "2",
+          "extracted": "2",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "1",
+          "extracted": "3",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "languages_known",
+          "expected": "['Spanish', 'Catalan', 'English', 'Portuguese']",
+          "extracted": "['Spanish', 'Catalan', 'English', 'Portuguese']",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 0.0,
+        "github_url": 0.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 0.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 1.0,
+        "geo_details": 1.0
+      }
+    },
+    {
+      "resume": "resume_05_fullstack_dev.txt",
+      "total_fields": 12,
+      "passed": 12,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "Rajesh Kumar Patel",
+          "extracted": "Rajesh Kumar Patel",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "Bangalore, Karnataka, India",
+          "extracted": "Bangalore, Karnataka, India",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "linkedin_url",
+          "expected": "https://linkedin.com/in/rajeshpatel",
+          "extracted": "https://linkedin.com/in/rajeshpatel",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "Male",
+          "extracted": "Male",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "email_ids",
+          "expected": "['rajesh.patel@email.com']",
+          "extracted": "['rajesh.patel@email.com']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "['+91-9876543210']",
+          "extracted": "['+91-9876543210']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "6",
+          "extracted": "6.0",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['Java', 'Spring Boot', 'Angular', 'React', 'Python', 'SQL', 'Docker']",
+          "extracted": "['Java', 'JavaScript', 'TypeScript', 'Python', 'SQL', 'Spring Boot', 'Spring MVC', 'Angular', 'React', 'MySQL', 'PostgreSQL', 'Oracle', 'MongoDB', 'Git', 'Maven', 'Jenkins', 'Docker', 'SonarQube', 'AWS', 'Azure', 'JUnit', 'Mockito', 'Selenium', 'Jasmine', 'Agile', 'Scrum', 'Waterfall']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "3",
+          "extracted": "3",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "1",
+          "extracted": "2",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "certifications",
+          "expected": "['Oracle Certified Professional', 'AWS Certified Developer']",
+          "extracted": "['Oracle Certified Professional: Java SE 11 Developer', 'AWS Certified Developer - Associate', 'Certified ScrumMaster (CSM)']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "languages_known",
+          "expected": "['English', 'Hindi', 'Kannada', 'Gujarati']",
+          "extracted": "['English', 'Hindi', 'Kannada', 'Gujarati']",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 1.0,
+        "current_location": 1.0,
+        "linkedin_url": 1.0,
+        "github_url": 0.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 0.0,
+        "geo_details": 1.0
+      }
+    },
+    {
+      "resume": "resume_06_project_manager.txt",
+      "total_fields": 11,
+      "passed": 11,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "Emily Watson",
+          "extracted": "Emily Watson",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "Denver, Colorado",
+          "extracted": "Denver, Colorado",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "None",
+          "extracted": "",
+          "match": true,
+          "notes": "Correctly null/empty"
+        },
+        {
+          "field": "email_ids",
+          "expected": "['emily.watson92@gmail.com']",
+          "extracted": "['emily.watson92@gmail.com']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "['1-303-555-0147']",
+          "extracted": "['1-303-555-0147']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "8",
+          "extracted": "8.0",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['Power Automate', 'Power Apps', 'Power BI', 'Jira', 'Azure DevOps']",
+          "extracted": "['PMP', 'Agile', 'Scrum', 'Kanban', 'PRINCE2', 'Risk Management', 'Budgeting', 'Requirements Gathering', 'User Stories', 'Process Mapping', 'Gap Analysis', 'Jira', 'Confluence', 'Azure DevOps', 'Microsoft Project', 'SharePoint', 'Power BI', 'Power Automate', 'Power Apps', 'Copilot Studio', 'Dataverse', 'SQL', 'Python (basic)', 'Excel (advanced)', 'Visio']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "3",
+          "extracted": "3",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "2",
+          "extracted": "2",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "certifications",
+          "expected": "['PMP', 'CSM', 'PL-900']",
+          "extracted": "['Project Management Professional (PMP)', 'Certified ScrumMaster (CSM)', 'Microsoft Certified: Power Platform Fundamentals (PL-900)', 'ITIL Foundation v4']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "languages_known",
+          "expected": "['English']",
+          "extracted": "['English']",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 1.0,
+        "github_url": 0.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 0.0,
+        "geo_details": 0.7
+      }
+    },
+    {
+      "resume": "resume_07_ml_engineer.txt",
+      "total_fields": 13,
+      "passed": 13,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "Alex Kim",
+          "extracted": "Alex Kim",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "Seoul, South Korea",
+          "extracted": "Seoul, South Korea",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "linkedin_url",
+          "expected": "https://linkedin.com/in/alexkim-ml",
+          "extracted": "https://linkedin.com/in/alexkim-ml",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "github_url",
+          "expected": "https://github.com/alexkim-ml",
+          "extracted": "https://github.com/alexkim-ml",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "None",
+          "extracted": "",
+          "match": true,
+          "notes": "Correctly null/empty"
+        },
+        {
+          "field": "email_ids",
+          "expected": "['alex.kim@protonmail.com']",
+          "extracted": "['alex.kim@protonmail.com']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "['+82-10-1234-5678']",
+          "extracted": "['+82-10-1234-5678']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "5",
+          "extracted": "5.0",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['PyTorch', 'TensorFlow', 'Python', 'Kubernetes', 'Docker']",
+          "extracted": "['PyTorch', 'TensorFlow', 'scikit-learn', 'Hugging Face', 'ONNX', 'Transformers', 'BERT', 'GPT', 'spaCy', 'NLTK', 'Sentiment Analysis', 'NER', 'OpenCV', 'YOLO', 'ResNet', 'Image Segmentation', 'pandas', 'NumPy', 'Apache Spark', 'Airflow', 'dbt', 'MLflow', 'Kubeflow', 'Docker', 'Kubernetes', 'CI/CD', 'AWS SageMaker', 'Azure ML', 'GCP Vertex AI', 'Python', 'R', 'SQL', 'Java', 'Scala', 'matplotlib', 'seaborn', 'Plotly', 'Streamlit']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "3",
+          "extracted": "3",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "2",
+          "extracted": "2",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "certifications",
+          "expected": "['AWS Machine Learning Specialty']",
+          "extracted": "['AWS Machine Learning Specialty', 'Google Professional Machine Learning Engineer', 'Deep Learning Specialization (Coursera - Andrew Ng)', 'TensorFlow Developer Certificate']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "languages_known",
+          "expected": "['Korean', 'English', 'Japanese']",
+          "extracted": "['Korean', 'English', 'Japanese']",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 1.0,
+        "github_url": 1.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 1.0,
+        "geo_details": 1.0
+      }
+    },
+    {
+      "resume": "resume_08_fresh_graduate.txt",
+      "total_fields": 11,
+      "passed": 11,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "Priya Sharma",
+          "extracted": "Priya Sharma",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "New Delhi, India",
+          "extracted": "New Delhi, India",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "None",
+          "extracted": "",
+          "match": true,
+          "notes": "Correctly null/empty"
+        },
+        {
+          "field": "email_ids",
+          "expected": "['priya.sharma24@gmail.com']",
+          "extracted": "['priya.sharma24@gmail.com']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "['+91-8765432109']",
+          "extracted": "['+91-8765432109']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "0",
+          "extracted": "0.5",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['Python', 'Java', 'C++', 'JavaScript', 'React', 'Django']",
+          "extracted": "['Python', 'Java', 'C++', 'JavaScript', 'React', 'Node.js', 'Django', 'SQL', 'MongoDB', 'Git', 'Docker', 'Linux', 'Machine Learning basics', 'Data Structures and Algorithms']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "3",
+          "extracted": "3",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "1",
+          "extracted": "1",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "languages_known",
+          "expected": "['English', 'Hindi']",
+          "extracted": "['English', 'Hindi']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "github_url",
+          "expected": "priyasharma",
+          "extracted": "github.com/priyasharma-dev",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 0.0,
+        "github_url": 1.0,
+        "portfolio_url": 0.0,
+        "total_experience": 0.7,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 0.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 0.0,
+        "geo_details": 0.7
+      }
+    },
+    {
+      "resume": "resume_09_devops_sre.txt",
+      "total_fields": 13,
+      "passed": 13,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "James O'Brien",
+          "extracted": "JAMES O'BRIEN",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "San Jose, CA, USA",
+          "extracted": "San Jose, CA, USA",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "linkedin_url",
+          "expected": "https://linkedin.com/in/jamesobrien-sre",
+          "extracted": "https://linkedin.com/in/jamesobrien-sre",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "github_url",
+          "expected": "https://github.com/jobrien-devops",
+          "extracted": "https://github.com/jobrien-devops",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "None",
+          "extracted": "",
+          "match": true,
+          "notes": "Correctly null/empty"
+        },
+        {
+          "field": "email_ids",
+          "expected": "['james.obrien@devops.io']",
+          "extracted": "['james.obrien@devops.io']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "['+1 (415) 555-2847']",
+          "extracted": "['+1 (415) 555-2847']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "9",
+          "extracted": "9.0",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['Terraform', 'Kubernetes', 'Docker', 'AWS', 'Python', 'Go']",
+          "extracted": "['Terraform', 'Ansible', 'CloudFormation', 'Pulumi', 'Docker', 'Kubernetes', 'Helm', 'Istio', 'ECS', 'Jenkins', 'GitHub Actions', 'GitLab CI', 'ArgoCD', 'Spinnaker', 'AWS', 'Azure', 'GCP', 'Prometheus', 'Grafana', 'Datadog', 'PagerDuty', 'ELK Stack', 'Python', 'Bash', 'Go', 'PowerShell', 'PostgreSQL', 'MySQL', 'Redis', 'DynamoDB', 'Elasticsearch', 'TCP/IP', 'DNS', 'Load Balancing', 'CDN', 'VPN', 'Firewall', 'IAM', 'Vault', 'WAF', 'SSL/TLS', 'SAST/DAST', 'SRE', 'DevOps', 'GitOps', 'Infrastructure as Code']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "4",
+          "extracted": "4",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "1",
+          "extracted": "1",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "certifications",
+          "expected": "['CKA', 'CKS', 'AWS Solutions Architect Professional']",
+          "extracted": "['AWS Solutions Architect Professional', 'Certified Kubernetes Administrator (CKA)', 'Certified Kubernetes Security Specialist (CKS)', 'HashiCorp Certified: Terraform Associate', 'Google Cloud Professional DevOps Engineer', 'Linux Foundation Certified System Administrator (LFCS)']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "languages_known",
+          "expected": "['English', 'Irish']",
+          "extracted": "['English', 'Irish']",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 1.0,
+        "github_url": 1.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 1.0,
+        "geo_details": 1.0
+      }
+    },
+    {
+      "resume": "resume_10_cybersecurity.txt",
+      "total_fields": 13,
+      "passed": 13,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "Aisha Okafor",
+          "extracted": "Dr. Aisha Okafor, PhD",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "Lagos, Nigeria",
+          "extracted": "Lagos, Nigeria",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "linkedin_url",
+          "expected": "https://linkedin.com/in/aishaokafor",
+          "extracted": "https://linkedin.com/in/aishaokafor",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "github_url",
+          "expected": "https://github.com/aisha-security",
+          "extracted": "https://github.com/aisha-security",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "None",
+          "extracted": "",
+          "match": true,
+          "notes": "Correctly null/empty"
+        },
+        {
+          "field": "email_ids",
+          "expected": "['aisha.okafor@securitylab.org']",
+          "extracted": "['aisha.okafor@securitylab.org']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "['+234-802-123-4567']",
+          "extracted": "['+234-802-123-4567']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "12",
+          "extracted": "12.0",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['Penetration Testing', 'Python', 'SIEM', 'Burp Suite']",
+          "extracted": "['Penetration Testing', 'Vulnerability Assessment', 'SIEM', 'Incident Response', 'Malware Analysis', 'Reverse Engineering', 'Network Security', 'Application Security', 'Cloud Security', 'Identity & Access Management', 'Zero Trust Architecture', 'NIST Framework', 'ISO 27001', 'GDPR Compliance', 'Risk Assessment', 'Threat Modeling', 'Python', 'C', 'Assembly', 'PowerShell', 'Wireshark', 'Burp Suite', 'Metasploit', 'Nmap', 'IDA Pro']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "4",
+          "extracted": "4",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "3",
+          "extracted": "3",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "certifications",
+          "expected": "['OSCP', 'CISSP', 'CEH']",
+          "extracted": "['OSCP (Offensive Security Certified Professional)', 'CISSP (Certified Information Systems Security Professional)', 'CREST Registered Penetration Tester', 'CEH (Certified Ethical Hacker)', 'AWS Security Specialty', 'GIAC Security Essentials (GSEC)']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "languages_known",
+          "expected": "['English', 'Yoruba', 'French', 'Arabic']",
+          "extracted": "['English', 'Yoruba', 'French', 'Arabic']",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 1.0,
+        "github_url": 1.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 0.0,
+        "geo_details": 1.0
+      }
+    },
+    {
+      "resume": "resume_11_missing_phone.txt",
+      "total_fields": 11,
+      "passed": 11,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "Daniela Rossi",
+          "extracted": "DANIELA ROSSI",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "Milan, Italy",
+          "extracted": "Milan, Italy",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "linkedin_url",
+          "expected": "https://linkedin.com/in/danielarossi",
+          "extracted": "https://linkedin.com/in/danielarossi",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "None",
+          "extracted": "",
+          "match": true,
+          "notes": "Correctly null/empty"
+        },
+        {
+          "field": "email_ids",
+          "expected": "['daniela.rossi@email.com']",
+          "extracted": "['daniela.rossi@email.com']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "[]",
+          "extracted": "[]",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "4",
+          "extracted": "4.0",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['Figma', 'Sketch', 'Adobe XD', 'HTML5', 'CSS3', 'React']",
+          "extracted": "['Figma', 'Sketch', 'Adobe XD', 'InVision', 'Miro', 'HTML5', 'CSS3', 'JavaScript', 'React', 'User Research', 'Usability Testing', 'Design Systems', 'Wireframing', 'Prototyping', 'Accessibility (WCAG)', 'Information Architecture']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "2",
+          "extracted": "2",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "2",
+          "extracted": "2",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "certifications",
+          "expected": "['Google UX Design']",
+          "extracted": "['Google UX Design Professional Certificate', 'Interaction Design Foundation \u2013 UX Management']",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 0.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 1.0,
+        "github_url": 0.0,
+        "portfolio_url": 1.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 0.0,
+        "geo_details": 1.0
+      }
+    },
+    {
+      "resume": "resume_12_multiple_emails.txt",
+      "total_fields": 12,
+      "passed": 12,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "Ahmed Al-Rashidi",
+          "extracted": "AHMED AL-RASHIDI",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "Riyadh, Saudi Arabia",
+          "extracted": "Riyadh, Saudi Arabia",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "linkedin_url",
+          "expected": "https://linkedin.com/in/ahmedrashidi",
+          "extracted": "https://linkedin.com/in/ahmedrashidi",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "github_url",
+          "expected": "https://github.com/arashidi",
+          "extracted": "https://github.com/arashidi",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "None",
+          "extracted": "",
+          "match": true,
+          "notes": "Correctly null/empty"
+        },
+        {
+          "field": "email_ids",
+          "expected": "['ahmed.rashidi@techcorp.com', 'ahmed.r@gmail.com', 'a.rashidi@alumni.kaust.edu.sa']",
+          "extracted": "['ahmed.rashidi@techcorp.com', 'ahmed.r@gmail.com', 'a.rashidi@alumni.kaust.edu.sa']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "['+966 55 123 4567', '+966 50 987 6543']",
+          "extracted": "['+966 55 123 4567', '+966 50 987 6543']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "6",
+          "extracted": "6.0",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['Python', 'SQL', 'Spark', 'Kafka', 'Airflow', 'AWS', 'Azure']",
+          "extracted": "['Python', 'SQL', 'Scala', 'Apache Spark', 'Apache Kafka', 'Apache Airflow', 'AWS (Redshift, Glue, S3, Lambda, EMR)', 'Azure (Synapse, Data Factory, Databricks, Event Hubs)', 'GCP (BigQuery, Dataflow)', 'PostgreSQL', 'MongoDB', 'Hadoop', 'Hive', 'dbt', 'Great Expectations', 'Docker', 'Kubernetes', 'Terraform', 'CI/CD', 'Git', 'Linux', 'Data Modeling', 'ETL/ELT', 'Data Governance']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "3",
+          "extracted": "3",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "2",
+          "extracted": "2",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "certifications",
+          "expected": "['AWS Certified Data Analytics', 'DP-203']",
+          "extracted": "['AWS Certified Data Analytics \u2013 Specialty', 'Microsoft Certified: Azure Data Engineer Associate (DP-203)', 'Databricks Certified Data Engineer Professional', 'Google Cloud Professional Data Engineer']",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 1.0,
+        "github_url": 1.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 0.0,
+        "geo_details": 1.0
+      }
+    },
+    {
+      "resume": "resume_13_table_format.txt",
+      "total_fields": 11,
+      "passed": 11,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "Lisa Andersson",
+          "extracted": "LISA ANDERSSON",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "Stockholm, Sweden",
+          "extracted": "Stockholm, Sweden",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "linkedin_url",
+          "expected": "https://linkedin.com/in/lisaandersson",
+          "extracted": "https://linkedin.com/in/lisaandersson",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "None",
+          "extracted": "",
+          "match": true,
+          "notes": "Correctly null/empty"
+        },
+        {
+          "field": "email_ids",
+          "expected": "['lisa.andersson@outlook.com']",
+          "extracted": "['lisa.andersson@outlook.com']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "['+46 70 123 4567']",
+          "extracted": "['+46 70 123 4567']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "9",
+          "extracted": "9.0",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['Agile', 'Jira', 'Confluence', 'Power BI', 'SAFe']",
+          "extracted": "['Program Management', 'Agile (SAFe 5.0, Scrum, Kanban)', 'Jira', 'Confluence', 'MS Project', 'Power BI', 'Stakeholder Management', 'Risk Management', 'Budget Management', 'Vendor Management', 'CI/CD', 'Cloud (AWS, Azure, GCP)', 'OKRs', 'Release Management', 'Incident Management', 'ITIL']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "3",
+          "extracted": "3",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "2",
+          "extracted": "2",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "certifications",
+          "expected": "['PMP', 'CSM', 'SPC']",
+          "extracted": "['SAFe 5 Program Consultant (SPC)', 'PMP (Project Management Professional)', 'Certified Scrum Master (CSM)', 'ITIL Foundation v4', 'AWS Cloud Practitioner']",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 1.0,
+        "github_url": 0.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 0.0,
+        "geo_details": 1.0
+      }
+    },
+    {
+      "resume": "resume_14_two_column.txt",
+      "total_fields": 10,
+      "passed": 10,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "Carlos Mendes",
+          "extracted": "CARLOS MENDES",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "S\u00e3o Paulo, SP, Brazil",
+          "extracted": "S\u00e3o Paulo, SP, Brazil",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "None",
+          "extracted": "",
+          "match": true,
+          "notes": "Correctly null/empty"
+        },
+        {
+          "field": "email_ids",
+          "expected": "['carlos.mendes@email.com']",
+          "extracted": "['carlos.mendes@email.com']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "['+55 11 98765-4321']",
+          "extracted": "['+55 11 98765-4321']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "5",
+          "extracted": "5.0",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['JavaScript', 'TypeScript', 'Python', 'React', 'Node.js', 'Docker']",
+          "extracted": "['JavaScript', 'TypeScript', 'Python', 'Go', 'SQL', 'React', 'Next.js', 'Vue.js', 'Angular', 'Tailwind CSS', 'Material UI', 'Node.js', 'Express', 'NestJS', 'Django', 'FastAPI', 'GraphQL', 'PostgreSQL', 'MongoDB', 'Redis', 'Elasticsearch', 'DynamoDB', 'Docker', 'Kubernetes', 'AWS', 'GCP', 'Terraform', 'GitHub Actions', 'Jenkins', 'Jest', 'Cypress', 'Pytest', 'Playwright']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "3",
+          "extracted": "3",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "1",
+          "extracted": "1",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "certifications",
+          "expected": "['AWS Solutions Architect']",
+          "extracted": "['AWS Solutions Architect Associate', 'Meta Front-End Developer', 'MongoDB Certified Developer']",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 1.0,
+        "github_url": 1.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 1.0,
+        "geo_details": 1.0
+      }
+    },
+    {
+      "resume": "resume_15_multipage.txt",
+      "total_fields": 12,
+      "passed": 12,
+      "accuracy": 1.0,
+      "details": [
+        {
+          "field": "candidate_full_name",
+          "expected": "Victoria Blackwood",
+          "extracted": "VICTORIA BLACKWOOD, Ph.D.",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "current_location",
+          "expected": "Cambridge, United Kingdom",
+          "extracted": "Cambridge, United Kingdom",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "linkedin_url",
+          "expected": "https://linkedin.com/in/victoriablackwood",
+          "extracted": "https://linkedin.com/in/victoriablackwood",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "github_url",
+          "expected": "https://github.com/vblackwood",
+          "extracted": "https://github.com/vblackwood",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "gender",
+          "expected": "None",
+          "extracted": "",
+          "match": true,
+          "notes": "Correctly null/empty"
+        },
+        {
+          "field": "email_ids",
+          "expected": "['victoria.blackwood@outlook.com', 'v.blackwood@techconsult.co.uk']",
+          "extracted": "['victoria.blackwood@outlook.com', 'v.blackwood@techconsult.co.uk']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "phones",
+          "expected": "['+44 7911 123456']",
+          "extracted": "['+44 7911 123456']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "total_experience_years",
+          "expected": "15",
+          "extracted": "15.0",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "key_skills",
+          "expected": "['Java', 'Python', 'Go', 'Kubernetes', 'Kafka', 'AWS', 'Azure']",
+          "extracted": "['Java', 'Python', 'Go', 'C#', 'C++', 'Scala', 'TypeScript', 'OCaml', 'Spring Boot', 'FastAPI', '.NET', 'React', 'NestJS', 'PostgreSQL', 'DynamoDB', 'Cassandra', 'MongoDB', 'Cosmos DB', 'Redis', 'Apache Kafka', 'RabbitMQ', 'Azure Service Bus', 'AWS SQS/SNS', 'AWS', 'Azure', 'GCP', 'Kubernetes', 'Docker', 'Terraform', 'Ansible', 'Helm', 'DataDog', 'Prometheus', 'Grafana', 'PagerDuty', 'ELK Stack', 'Microservices', 'Event-Driven', 'CQRS', 'Domain-Driven Design', 'CI/CD', 'TDD', 'Chaos Engineering', 'Architecture Decision Records']",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "work_experience",
+          "expected": "5",
+          "extracted": "5",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "education",
+          "expected": "2",
+          "extracted": "2",
+          "match": true,
+          "notes": ""
+        },
+        {
+          "field": "certifications",
+          "expected": "['CKA', 'TOGAF']",
+          "extracted": "['AWS Certified Solutions Architect \u2013 Professional', 'Microsoft Certified: Azure Solutions Architect Expert', 'Certified Kubernetes Administrator (CKA)', 'Google Cloud Professional Cloud Architect', 'TOGAF 9.2 Certified Enterprise Architect']",
+          "match": true,
+          "notes": ""
+        }
+      ],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 1.0,
+        "github_url": 1.0,
+        "portfolio_url": 1.0,
+        "total_experience": 0.9,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 1.0,
+        "professional_summary": 1.0,
+        "projects": 0.0,
+        "geo_details": 1.0
+      }
+    }
+  ]
+}

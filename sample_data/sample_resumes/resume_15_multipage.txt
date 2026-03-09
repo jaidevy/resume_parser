@@ -1,0 +1,185 @@
+VICTORIA BLACKWOOD, Ph.D.
+Principal Software Architect & Engineering Leader
+
+Email: victoria.blackwood@outlook.com | v.blackwood@techconsult.co.uk
+Phone: +44 7911 123456
+Location: Cambridge, United Kingdom
+LinkedIn: https://linkedin.com/in/victoriablackwood
+GitHub: https://github.com/vblackwood
+Portfolio: https://victoriablackwood.dev
+
+══════════════════════════════════════════════════════════════════════════
+PROFESSIONAL SUMMARY
+══════════════════════════════════════════════════════════════════════════
+
+Accomplished software architect with 15+ years of experience designing
+and building large-scale distributed systems. Ph.D. in Computer Science
+with expertise in microservices, event-driven architecture, and cloud
+platform engineering. Published researcher and international conference
+speaker. Led engineering organizations of 80+ across 5 countries.
+
+══════════════════════════════════════════════════════════════════════════
+WORK EXPERIENCE
+══════════════════════════════════════════════════════════════════════════
+
+PRINCIPAL SOFTWARE ARCHITECT
+ARM Holdings, Cambridge, UK
+September 2020 – Present (3+ years)
+
+Responsibilities:
+  • Define and govern technical architecture for ARM's cloud services
+    platform serving 1B+ connected IoT devices
+  • Lead architecture review board (ARB) evaluating 50+ proposals/year
+  • Establish engineering standards, API guidelines, and RFC processes
+  • Partner with VP Engineering on 3-year technology roadmap and $50M
+    R&D investment strategy
+  • Drive adoption of event-driven architecture using Apache Kafka and
+    CQRS patterns across 12 product teams
+
+Achievements:
+  • Reduced system latency by 65% through architecture redesign
+  • Decreased infrastructure costs by £2M annually via cloud optimization
+  • Published 3 internal whitepapers on distributed systems patterns
+  • Keynote speaker at QCon London 2023
+
+Technologies: Java, Go, Python, Kubernetes, Kafka, Terraform, AWS, Azure,
+              gRPC, PostgreSQL, DynamoDB, DataDog, PagerDuty
+
+──────────────────────────────────────────────────────────────────────────
+
+SENIOR SOFTWARE ARCHITECT
+Darktrace, Cambridge, UK
+April 2017 – August 2020 (3 years 5 months)
+
+Responsibilities:
+  • Designed the core cyber threat detection engine processing 1M+
+    network events per second in real-time
+  • Architected multi-tenant SaaS platform supporting 5,000+ enterprise
+    customers across 110 countries
+  • Led team of 25 engineers building the anomaly detection pipeline
+  • Introduced chaos engineering practices improving system resilience
+
+Achievements:
+  • Built ML inference pipeline achieving sub-50ms response time for
+    threat classification
+  • Platform achieved SOC 2 Type II and ISO 27001 compliance
+  • Patented novel approach to unsupervised network anomaly detection
+    (UK Patent #GB2578123)
+
+Technologies: Python, C++, Scala, Apache Spark, Cassandra, Elasticsearch,
+              Docker, Kubernetes, AWS, TensorFlow, Grafana
+
+──────────────────────────────────────────────────────────────────────────
+
+LEAD SOFTWARE ENGINEER
+Microsoft (Azure IoT), Reading, UK
+June 2013 – March 2017 (3 years 10 months)
+
+Responsibilities:
+  • Led development of Azure IoT Hub's device management module
+  • Architected device twin synchronization service handling 10M+
+    concurrent device connections
+  • Managed team of 12 engineers with direct reports across UK, India,
+    and US offices
+  • Drove migration from monolithic architecture to microservices
+
+Achievements:
+  • Scaled IoT Hub from 1M to 10M concurrent device connections
+  • Reduced deployment frequency from monthly to daily releases
+  • Received Microsoft Gold Star Award for engineering excellence (2016)
+
+Technologies: C#, .NET, Azure (IoT Hub, Service Bus, Cosmos DB, AKS),
+              TypeScript, React, Docker, Prometheus
+
+──────────────────────────────────────────────────────────────────────────
+
+SOFTWARE ENGINEER
+Amazon (AWS), Edinburgh, UK
+August 2010 – May 2013 (2 years 10 months)
+
+Responsibilities:
+  • Developed core components of Amazon S3's storage tier
+  • Implemented data replication and consistency mechanisms
+  • Participated in on-call rotation for S3 (Tier-1 service)
+  • Contributed to internal distributed systems training materials
+
+Achievements:
+  • Optimized storage allocation algorithm reducing waste by 15%
+  • Co-authored internal paper on eventual consistency patterns
+
+Technologies: Java, C++, DynamoDB, S3, SQS, Linux, Perl
+
+──────────────────────────────────────────────────────────────────────────
+
+RESEARCH ASSOCIATE
+University of Cambridge, Computer Laboratory
+October 2008 – July 2010 (1 year 10 months)
+
+Responsibilities:
+  • Conducted postdoctoral research in distributed systems and
+    fault tolerance
+  • Published 4 papers in top-tier venues (SOSP, OSDI, EuroSys)
+  • Supervised 3 Master's students and 1 Ph.D. candidate
+  • Taught graduate-level course on distributed computing
+
+Technologies: OCaml, C, Xen Hypervisor, Network Simulation
+
+══════════════════════════════════════════════════════════════════════════
+EDUCATION
+══════════════════════════════════════════════════════════════════════════
+
+Doctor of Philosophy (Ph.D.) in Computer Science
+University of Cambridge, Cambridge, UK
+2004 – 2008
+Thesis: "Fault-tolerant Consensus in Asynchronous Distributed Systems"
+Supervisors: Prof. Andrew S. Tanenbaum (visiting), Dr. Jon Sherwood
+
+Master of Engineering (MEng) in Computer Science
+Imperial College London, London, UK
+2000 – 2004
+First Class Honours
+Dissertation: "Self-stabilising Algorithms for Mobile Ad-hoc Networks"
+
+══════════════════════════════════════════════════════════════════════════
+CERTIFICATIONS
+══════════════════════════════════════════════════════════════════════════
+• AWS Certified Solutions Architect – Professional
+• Microsoft Certified: Azure Solutions Architect Expert
+• Certified Kubernetes Administrator (CKA)
+• Google Cloud Professional Cloud Architect
+• TOGAF 9.2 Certified Enterprise Architect
+
+══════════════════════════════════════════════════════════════════════════
+SKILLS
+══════════════════════════════════════════════════════════════════════════
+Languages: Java, Python, Go, C#, C++, Scala, TypeScript, OCaml
+Frameworks: Spring Boot, FastAPI, .NET, React, NestJS
+Databases: PostgreSQL, DynamoDB, Cassandra, MongoDB, Cosmos DB, Redis
+Messaging: Apache Kafka, RabbitMQ, Azure Service Bus, AWS SQS/SNS
+Cloud: AWS, Azure, GCP
+Infrastructure: Kubernetes, Docker, Terraform, Ansible, Helm
+Observability: DataDog, Prometheus, Grafana, PagerDuty, ELK Stack
+Architecture: Microservices, Event-Driven, CQRS, Domain-Driven Design
+Practices: CI/CD, TDD, Chaos Engineering, Architecture Decision Records
+
+══════════════════════════════════════════════════════════════════════════
+PUBLICATIONS & PATENTS
+══════════════════════════════════════════════════════════════════════════
+• "Fault-tolerant Consensus with Bounded Memory" — SOSP 2009
+• "Practical Byzantine Fault Tolerance in Production" — OSDI 2008
+• "Self-stabilising Clock Synchronization" — EuroSys 2010
+• "Adaptive Anomaly Detection in Network Traffic" — USENIX Security 2019
+• UK Patent GB2578123: "Method for Unsupervised Network Anomaly Detection"
+
+══════════════════════════════════════════════════════════════════════════
+SPEAKING ENGAGEMENTS
+══════════════════════════════════════════════════════════════════════════
+• QCon London 2023 — Keynote: "Architecting for the Next Billion Devices"
+• KubeCon EU 2022 — "Scaling Kubernetes for IoT Edge Workloads"
+• AWS re:Invent 2019 — "Building Resilient Distributed Systems on AWS"
+• Strange Loop 2018 — "Event Sourcing in Practice: Lessons from Darktrace"
+
+══════════════════════════════════════════════════════════════════════════
+LANGUAGES
+══════════════════════════════════════════════════════════════════════════
+English (Native), French (Fluent), German (Conversational), Japanese (Basic)

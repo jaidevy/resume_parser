@@ -1,0 +1,60 @@
+SARAH JOHNSON
+Data Analyst & Power Platform Developer
+
+Email: sarah.j@outlook.com | sarah.johnson@company.com
+Phone: (212) 555-0198
+Location: New York, NY
+
+LinkedIn: https://linkedin.com/in/sarahjohnson-data
+GitHub: https://github.com/sjohnson-data
+
+ABOUT ME
+Detail-oriented Data Analyst with 4 years of experience in business intelligence, data visualization, and Power Platform development. Skilled at transforming complex datasets into actionable insights using Power BI, Python, and SQL.
+
+TECHNICAL SKILLS
+- Power Platform: Power BI, Power Automate, Power Apps, Dataverse
+- Programming: Python, SQL, R, DAX, M Query
+- Data Tools: Excel, Tableau, SSRS, SSIS
+- Cloud: Azure Data Factory, Azure SQL, Azure DevOps
+- Other: Git, Jira, Agile, Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Power Platform Developer | Contoso Ltd.
+April 2022 - Present
+• Developed 15+ Power Automate flows automating business processes
+• Built custom Power Apps for inventory management, reducing manual entry by 70%
+• Created Power BI dashboards tracking KPIs for C-suite executives
+• Managed Dataverse data models and security roles
+• Trained 20+ business users on Power Platform tools
+
+Data Analyst | Northwind Traders
+June 2020 - March 2022
+• Analyzed sales data using Python (pandas, matplotlib) and SQL
+• Built Tableau dashboards for regional sales performance tracking
+• Automated weekly reporting using Python scripts, saving 10 hours/week
+• Conducted A/B testing analysis for marketing campaigns
+• Collaborated with engineering team on data pipeline improvements
+
+Data Intern | AdventureWorks Inc.
+January 2020 - May 2020
+• Assisted in data cleaning and preprocessing using Excel and Python
+• Created basic Power BI reports for departmental use
+• Documented data sources and created data dictionary
+
+EDUCATION
+
+Master of Science in Data Analytics
+Columbia University, 2020
+
+Bachelor of Arts in Mathematics
+New York University, 2018
+
+CERTIFICATIONS
+• Microsoft Certified: Power Platform Fundamentals (PL-900)
+• Microsoft Certified: Data Analyst Associate (DA-100)
+• Google Data Analytics Professional Certificate
+• Azure Fundamentals (AZ-900)
+
+LANGUAGES
+English (Native), Mandarin (Conversational)

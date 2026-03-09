@@ -1,0 +1,49 @@
+DANIELA ROSSI
+Email: daniela.rossi@email.com
+Location: Milan, Italy
+LinkedIn: https://linkedin.com/in/danielarossi
+Portfolio: https://danielarossi.design
+
+PROFESSIONAL SUMMARY
+Creative product designer with 4 years of experience in SaaS and fintech. Skilled in user research, prototyping, and design systems. Passionate about accessible and inclusive design.
+
+WORK EXPERIENCE
+
+Product Designer
+FinTech Solutions S.r.l., Milan, Italy
+March 2022 – Present
+- Lead end-to-end design for a mobile banking application serving 500K+ users
+- Created and maintained a component library in Figma with 200+ reusable components
+- Conducted 30+ user interviews and usability tests per quarter
+- Improved onboarding completion rate from 62% to 89% through iterative A/B testing
+- Collaborated with 3 cross-functional squads using Agile methodologies
+
+Junior UX Designer
+Digital Agency Milano, Milan, Italy
+June 2020 – February 2022
+- Designed responsive web interfaces for 12 client projects
+- Built interactive prototypes using Figma and InVision
+- Assisted in conducting heuristic evaluations and competitor analyses
+- Participated in design sprints and presented concepts to stakeholders
+
+EDUCATION
+
+Master of Arts in Interaction Design
+Politecnico di Milano, Milan, Italy
+2018 – 2020
+Grade: 110/110 cum laude
+
+Bachelor of Arts in Communication Design
+Politecnico di Milano, Milan, Italy
+2015 – 2018
+Grade: 105/110
+
+SKILLS
+Figma, Sketch, Adobe XD, InVision, Miro, HTML5, CSS3, JavaScript, React, User Research, Usability Testing, Design Systems, Wireframing, Prototyping, Accessibility (WCAG), Information Architecture
+
+CERTIFICATIONS
+- Google UX Design Professional Certificate
+- Interaction Design Foundation – UX Management
+
+LANGUAGES
+Italian (Native), English (Fluent), French (Intermediate)

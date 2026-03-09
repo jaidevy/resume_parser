@@ -1,0 +1,96 @@
+JAMES O'BRIEN
+DevOps & Site Reliability Engineer
+
+james.obrien@devops.io | +1 (415) 555-2847 | San Jose, CA, USA
+LinkedIn: https://linkedin.com/in/jamesobrien-sre | GitHub: https://github.com/jobrien-devops
+
+================================================================================
+
+PROFESSIONAL PROFILE
+
+Experienced DevOps and SRE professional with 9 years of progressive experience in building and maintaining large-scale distributed systems. Expert in infrastructure automation, container orchestration, and observability. Proven ability to reduce incidents by 70% and improve system reliability to 99.99%.
+
+================================================================================
+
+TECHNICAL EXPERTISE
+
+Infrastructure: Terraform, Ansible, CloudFormation, Pulumi
+Containers: Docker, Kubernetes (K8s), Helm, Istio, ECS
+CI/CD: Jenkins, GitHub Actions, GitLab CI, ArgoCD, Spinnaker
+Cloud Platforms: AWS (Expert), Azure (Advanced), GCP (Intermediate)
+Monitoring: Prometheus, Grafana, Datadog, PagerDuty, ELK Stack
+Scripting: Python, Bash, Go, PowerShell
+Databases: PostgreSQL, MySQL, Redis, DynamoDB, Elasticsearch
+Networking: TCP/IP, DNS, Load Balancing, CDN, VPN, Firewall
+Security: IAM, Vault, WAF, SSL/TLS, SAST/DAST
+Methodologies: SRE, DevOps, GitOps, Infrastructure as Code
+
+================================================================================
+
+CAREER HISTORY
+
+Principal SRE | Netflix | Jan 2022 - Present
+- Designed and managed infrastructure serving 200M+ subscribers globally
+- Implemented chaos engineering practices using Chaos Monkey and custom tools
+- Reduced MTTR from 45 minutes to 8 minutes through automated remediation
+- Led on-call team of 12 SREs across 3 time zones
+- Built observability platform processing 5TB of telemetry data daily
+- Achieved 99.999% availability for critical streaming services
+
+Senior DevOps Engineer | Uber | Mar 2019 - Dec 2021
+- Managed Kubernetes clusters with 10,000+ nodes across multiple regions
+- Built CI/CD platform processing 5,000+ deployments per day
+- Implemented canary deployment strategy reducing production incidents by 60%
+- Designed and deployed service mesh using Istio
+- Automated infrastructure provisioning with Terraform (500+ modules)
+
+DevOps Engineer | Lyft | Jun 2017 - Feb 2019
+- Migrated workloads from EC2 to Kubernetes, reducing costs by 35%
+- Implemented monitoring and alerting using Prometheus and Grafana
+- Built automated scaling policies for microservices
+- Created immutable infrastructure pipelines using Packer and Terraform
+
+Systems Engineer | Boeing | Aug 2015 - May 2017
+- Administered Linux and Windows server environments
+- Managed VMware vSphere virtualization infrastructure
+- Implemented backup and disaster recovery solutions
+- Automated routine tasks using Python and Bash scripts
+
+================================================================================
+
+EDUCATION
+
+BS Computer Engineering | University of California, Berkeley | 2015
+
+================================================================================
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Security Specialist (CKS)
+- HashiCorp Certified: Terraform Associate
+- Google Cloud Professional DevOps Engineer
+- Linux Foundation Certified System Administrator (LFCS)
+
+================================================================================
+
+NOTABLE PROJECTS
+
+Open Source Kubernetes Cost Optimizer
+- Built tool to analyze and optimize K8s resource allocation
+- 1,200+ GitHub stars, adopted by 50+ companies
+- Technologies: Go, Kubernetes API, Prometheus
+
+Incident Response Automation Platform
+- Developed automated incident response system integrating PagerDuty, Slack, and runbooks
+- Reduced incident resolution time by 65%
+- Technologies: Python, AWS Lambda, Step Functions
+
+================================================================================
+
+SPEAKING & COMMUNITY
+- Speaker at KubeCon 2023: "Scaling Kubernetes to 10,000 Nodes"
+- Contributor to open-source Kubernetes and Prometheus projects
+- Blog: devops-james.com (10K+ monthly readers)
+
+LANGUAGES: English (Native), Irish (Basic)

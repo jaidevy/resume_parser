@@ -1,0 +1,659 @@
+[
+  {
+    "test_case_id": "TC001",
+    "test_case_name": "Standard Software Engineer Resume",
+    "score": 10,
+    "total_checks": 10,
+    "accuracy": 1.0,
+    "elapsed_seconds": 14.429551601409912,
+    "details": [
+      {
+        "field": "name",
+        "passed": true,
+        "message": "Matched: John Michael Doe"
+      },
+      {
+        "field": "emails",
+        "passed": true,
+        "message": "Found: ['john.doe@techmail.com']"
+      },
+      {
+        "field": "phones",
+        "passed": true,
+        "message": "Found: ['+1-415-555-1234']"
+      },
+      {
+        "field": "gender",
+        "passed": true,
+        "message": "Correct: ''"
+      },
+      {
+        "field": "location",
+        "passed": true,
+        "message": "Found: San Francisco, CA, USA"
+      },
+      {
+        "field": "skills",
+        "passed": true,
+        "message": "Found 4/4 required skills"
+      },
+      {
+        "field": "work_exp_count",
+        "passed": true,
+        "message": "Found 2 entries"
+      },
+      {
+        "field": "edu_count",
+        "passed": true,
+        "message": "Found 2 entries"
+      },
+      {
+        "field": "linkedin",
+        "passed": true,
+        "message": "Present: True"
+      },
+      {
+        "field": "github",
+        "passed": true,
+        "message": "Present: True"
+      }
+    ],
+    "extracted_data": {
+      "candidate_full_name": "John Michael Doe",
+      "email_ids": [
+        "john.doe@techmail.com"
+      ],
+      "phones": [
+        "+1-415-555-1234"
+      ],
+      "gender": "",
+      "current_location": "San Francisco, CA, USA",
+      "geo_details": {
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA"
+      },
+      "total_experience": "8 years",
+      "work_experience": [
+        {
+          "company": "TechCorp Inc.",
+          "role": "Senior Software Engineer",
+          "location": "",
+          "start_date": "January 2020",
+          "end_date": "Present",
+          "duration": "3 years",
+          "responsibilities": [
+            "Led microservices architecture redesign."
+          ],
+          "achievements": [],
+          "technologies": []
+        },
+        {
+          "company": "StartupXYZ",
+          "role": "Junior Developer",
+          "location": "",
+          "start_date": "June 2016",
+          "end_date": "December 2019",
+          "duration": "3 years 6 months",
+          "responsibilities": [
+            "Built web applications using Django."
+          ],
+          "achievements": [],
+          "technologies": []
+        }
+      ],
+      "key_skills": [
+        "Python",
+        "Django",
+        "React",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "Redis",
+        "Git"
+      ],
+      "education": [
+        {
+          "degree": "M.S.",
+          "field_of_study": "Computer Science",
+          "institution": "Stanford University",
+          "start_year": "2016",
+          "end_year": "2016",
+          "grade": ""
+        },
+        {
+          "degree": "B.Tech",
+          "field_of_study": "Information Technology",
+          "institution": "IIT Delhi",
+          "start_year": "2014",
+          "end_year": "2014",
+          "grade": ""
+        }
+      ],
+      "certifications": [
+        "AWS Solutions Architect Associate"
+      ],
+      "linkedin_url": "https://linkedin.com/in/johndoe",
+      "github_url": "https://github.com/johndoe",
+      "portfolio_url": "",
+      "professional_summary": "Experienced software engineer with 8 years of experience in full-stack development.",
+      "projects": [],
+      "languages_known": [],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 1.0,
+        "github_url": 1.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 0.0,
+        "professional_summary": 1.0,
+        "projects": 0.0,
+        "geo_details": 1.0
+      },
+      "candidate_id": "6a41c8d650dd6051"
+    }
+  },
+  {
+    "test_case_id": "TC002",
+    "test_case_name": "Multiple Emails and Phones",
+    "score": 8,
+    "total_checks": 8,
+    "accuracy": 1.0,
+    "elapsed_seconds": 16.390716552734375,
+    "details": [
+      {
+        "field": "name",
+        "passed": true,
+        "message": "Matched: Priya Sharma"
+      },
+      {
+        "field": "emails",
+        "passed": true,
+        "message": "Found: ['priya.sharma@gmail.com', 'priya.s@company.org']"
+      },
+      {
+        "field": "email_count",
+        "passed": true,
+        "message": "Found 2 emails"
+      },
+      {
+        "field": "phone_count",
+        "passed": true,
+        "message": "Found 2 phones"
+      },
+      {
+        "field": "gender",
+        "passed": true,
+        "message": "Correct: 'Female'"
+      },
+      {
+        "field": "location",
+        "passed": true,
+        "message": "Found: Mumbai, Maharashtra, India"
+      },
+      {
+        "field": "work_exp_count",
+        "passed": true,
+        "message": "Found 2 entries"
+      },
+      {
+        "field": "edu_count",
+        "passed": true,
+        "message": "Found 2 entries"
+      }
+    ],
+    "extracted_data": {
+      "candidate_full_name": "Priya Sharma",
+      "email_ids": [
+        "priya.sharma@gmail.com",
+        "priya.s@company.org"
+      ],
+      "phones": [
+        "+91-98765-43210",
+        "+91-11-2345-6789"
+      ],
+      "gender": "Female",
+      "current_location": "Mumbai, Maharashtra, India",
+      "geo_details": {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "total_experience": "7 years",
+      "work_experience": [
+        {
+          "company": "DataCo Analytics",
+          "role": "Senior Data Analyst",
+          "location": "",
+          "start_date": "April 2019",
+          "end_date": "Present",
+          "duration": "4 years",
+          "responsibilities": [
+            "Analyzed large datasets",
+            "Created dashboards"
+          ],
+          "achievements": [],
+          "technologies": []
+        },
+        {
+          "company": "InfoTech Solutions",
+          "role": "Data Analyst",
+          "location": "",
+          "start_date": "Jan 2016",
+          "end_date": "March 2019",
+          "duration": "3 years",
+          "responsibilities": [
+            "Built ETL pipelines",
+            "Created reports"
+          ],
+          "achievements": [],
+          "technologies": []
+        }
+      ],
+      "key_skills": [
+        "Python",
+        "R",
+        "SQL",
+        "Tableau",
+        "Power BI",
+        "Excel",
+        "Machine Learning"
+      ],
+      "education": [
+        {
+          "degree": "M.Sc.",
+          "field_of_study": "Statistics",
+          "institution": "University of Mumbai",
+          "start_year": "2015",
+          "end_year": "2015",
+          "grade": ""
+        },
+        {
+          "degree": "B.Sc.",
+          "field_of_study": "Mathematics",
+          "institution": "Delhi University",
+          "start_year": "2013",
+          "end_year": "2013",
+          "grade": ""
+        }
+      ],
+      "certifications": [],
+      "linkedin_url": "",
+      "github_url": "",
+      "portfolio_url": "",
+      "professional_summary": "",
+      "projects": [],
+      "languages_known": [],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 1.0,
+        "current_location": 1.0,
+        "linkedin_url": 0.0,
+        "github_url": 0.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 0.0,
+        "languages_known": 0.0,
+        "professional_summary": 0.0,
+        "projects": 0.0,
+        "geo_details": 1.0
+      },
+      "candidate_id": "3166f26ae3622fce"
+    }
+  },
+  {
+    "test_case_id": "TC003",
+    "test_case_name": "Minimal Resume - Missing Fields",
+    "score": 5,
+    "total_checks": 5,
+    "accuracy": 1.0,
+    "elapsed_seconds": 5.978546142578125,
+    "details": [
+      {
+        "field": "name",
+        "passed": true,
+        "message": "Matched: Alex Johnson"
+      },
+      {
+        "field": "emails",
+        "passed": true,
+        "message": "Found: ['alex.j@email.com']"
+      },
+      {
+        "field": "phones",
+        "passed": true,
+        "message": "Correctly empty"
+      },
+      {
+        "field": "gender",
+        "passed": true,
+        "message": "Correct: ''"
+      },
+      {
+        "field": "linkedin",
+        "passed": true,
+        "message": "Present: False"
+      }
+    ],
+    "extracted_data": {
+      "candidate_full_name": "Alex Johnson",
+      "email_ids": [
+        "alex.j@email.com"
+      ],
+      "phones": [],
+      "gender": "",
+      "current_location": "",
+      "geo_details": {
+        "city": "",
+        "state": "",
+        "country": ""
+      },
+      "total_experience": "3 years",
+      "work_experience": [],
+      "key_skills": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "education": [],
+      "certifications": [],
+      "linkedin_url": "",
+      "github_url": "",
+      "portfolio_url": "",
+      "professional_summary": "3 years experience in JavaScript and Node.js.",
+      "projects": [],
+      "languages_known": [],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 0.0,
+        "gender": 0.0,
+        "current_location": 0.0,
+        "linkedin_url": 0.0,
+        "github_url": 0.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 0.0,
+        "key_skills": 1.0,
+        "education": 0.0,
+        "certifications": 0.0,
+        "languages_known": 0.0,
+        "professional_summary": 1.0,
+        "projects": 0.0,
+        "geo_details": 0.0
+      },
+      "candidate_id": "2b08f17a56e2ccf6"
+    }
+  },
+  {
+    "test_case_id": "TC004",
+    "test_case_name": "Resume with Projects and Certifications",
+    "score": 6,
+    "total_checks": 6,
+    "accuracy": 1.0,
+    "elapsed_seconds": 10.969682693481445,
+    "details": [
+      {
+        "field": "name",
+        "passed": true,
+        "message": "Matched: Maria Garcia"
+      },
+      {
+        "field": "emails",
+        "passed": true,
+        "message": "Found: ['maria.garcia@dev.com']"
+      },
+      {
+        "field": "phone_count",
+        "passed": true,
+        "message": "Found 1 phones"
+      },
+      {
+        "field": "work_exp_count",
+        "passed": true,
+        "message": "Found 1 entries"
+      },
+      {
+        "field": "certifications",
+        "passed": true,
+        "message": "Found 2"
+      },
+      {
+        "field": "projects",
+        "passed": true,
+        "message": "Found 2"
+      }
+    ],
+    "extracted_data": {
+      "candidate_full_name": "Maria Garcia",
+      "email_ids": [
+        "maria.garcia@dev.com"
+      ],
+      "phones": [
+        "+1 (312) 555-8901"
+      ],
+      "gender": "",
+      "current_location": "Chicago, IL",
+      "geo_details": {
+        "city": "Chicago",
+        "state": "IL",
+        "country": "USA"
+      },
+      "total_experience": "3 years",
+      "work_experience": [
+        {
+          "company": "WebDev Corp",
+          "role": "Full Stack Developer",
+          "location": "",
+          "start_date": "May 2020",
+          "end_date": "Present",
+          "duration": "3 years",
+          "responsibilities": [
+            "Developed e-commerce platform serving 1M+ users."
+          ],
+          "achievements": [],
+          "technologies": [
+            "React",
+            "Node.js",
+            "MongoDB"
+          ]
+        }
+      ],
+      "key_skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Docker",
+        "Kubernetes"
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Science",
+          "field_of_study": "Computer Science",
+          "institution": "University of Illinois",
+          "start_year": "2016",
+          "end_year": "2020",
+          "grade": ""
+        }
+      ],
+      "certifications": [
+        "Google Cloud Professional Developer",
+        "Docker Certified Associate"
+      ],
+      "linkedin_url": "",
+      "github_url": "",
+      "portfolio_url": "",
+      "professional_summary": "",
+      "projects": [
+        {
+          "name": "E-Commerce Platform",
+          "description": "Full-stack e-commerce solution",
+          "technologies": [
+            "React",
+            "Node.js",
+            "MongoDB"
+          ]
+        },
+        {
+          "name": "TaskManager Pro",
+          "description": "Project management tool",
+          "technologies": [
+            "TypeScript",
+            "Express",
+            "PostgreSQL"
+          ]
+        }
+      ],
+      "languages_known": [],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 1.0,
+        "linkedin_url": 0.0,
+        "github_url": 0.0,
+        "portfolio_url": 0.0,
+        "total_experience": 0.9,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 1.0,
+        "languages_known": 0.0,
+        "professional_summary": 0.0,
+        "projects": 1.0,
+        "geo_details": 1.0
+      },
+      "candidate_id": "6b57f2389a05b2d0"
+    }
+  },
+  {
+    "test_case_id": "TC005",
+    "test_case_name": "Resume with No Clear Sections",
+    "score": 4,
+    "total_checks": 4,
+    "accuracy": 1.0,
+    "elapsed_seconds": 9.662839889526367,
+    "details": [
+      {
+        "field": "name",
+        "passed": true,
+        "message": "Matched: Robert Chen"
+      },
+      {
+        "field": "emails",
+        "passed": true,
+        "message": "Found: ['robert.chen@mail.com']"
+      },
+      {
+        "field": "phone_count",
+        "passed": true,
+        "message": "Found 1 phones"
+      },
+      {
+        "field": "linkedin",
+        "passed": true,
+        "message": "Present: True"
+      }
+    ],
+    "extracted_data": {
+      "candidate_full_name": "Robert Chen",
+      "email_ids": [
+        "robert.chen@mail.com"
+      ],
+      "phones": [
+        "555-234-5678"
+      ],
+      "gender": "",
+      "current_location": "",
+      "geo_details": {
+        "city": "",
+        "state": "",
+        "country": ""
+      },
+      "total_experience": "5 years",
+      "work_experience": [
+        {
+          "company": "BrandCo",
+          "role": "Marketing Specialist",
+          "location": "",
+          "start_date": "2020",
+          "end_date": "Present",
+          "duration": "3 years",
+          "responsibilities": [],
+          "achievements": [],
+          "technologies": []
+        },
+        {
+          "company": "MarketingPro",
+          "role": "Marketing Specialist",
+          "location": "",
+          "start_date": "2018",
+          "end_date": "2020",
+          "duration": "2 years",
+          "responsibilities": [],
+          "achievements": [],
+          "technologies": []
+        }
+      ],
+      "key_skills": [
+        "Google Analytics",
+        "HubSpot",
+        "SEMrush",
+        "Mailchimp"
+      ],
+      "education": [
+        {
+          "degree": "BA",
+          "field_of_study": "Marketing",
+          "institution": "NYU",
+          "start_year": "",
+          "end_year": "2018",
+          "grade": ""
+        }
+      ],
+      "certifications": [],
+      "linkedin_url": "https://linkedin.com/in/robertchen",
+      "github_url": "",
+      "portfolio_url": "",
+      "professional_summary": "I am a marketing specialist with 5 years of experience in digital marketing, SEO, content strategy, and social media management.",
+      "projects": [],
+      "languages_known": [],
+      "field_confidences": {
+        "candidate_full_name": 1.0,
+        "email_ids": 1.0,
+        "phones": 1.0,
+        "gender": 0.0,
+        "current_location": 0.0,
+        "linkedin_url": 1.0,
+        "github_url": 0.0,
+        "portfolio_url": 0.0,
+        "total_experience": 1.0,
+        "work_experience": 1.0,
+        "key_skills": 1.0,
+        "education": 1.0,
+        "certifications": 0.0,
+        "languages_known": 0.0,
+        "professional_summary": 1.0,
+        "projects": 0.0,
+        "geo_details": 0.0
+      },
+      "candidate_id": "468d896253e58a44"
+    }
+  }
+]

@@ -1,0 +1,64 @@
+MICHAEL CHEN
+
+michael.chen@gmail.com
++44-7700-900456
+London, United Kingdom
+
+PROFILE
+Cloud Solutions Architect with 10 years of experience designing enterprise-grade cloud infrastructure on Azure and AWS. Proven track record of leading digital transformation initiatives and reducing operational costs through cloud optimization.
+
+CORE COMPETENCIES
+Azure Architecture, AWS Solutions Design, Kubernetes, Docker, Terraform, Infrastructure as Code, CI/CD Pipelines, DevOps, Microservices, Serverless Computing, Python, Go, Bash, PowerShell, Networking, Security, Cost Optimization, Team Leadership
+
+EXPERIENCE
+
+Lead Cloud Architect | GlobalTech Solutions | 2020 - Present
+- Architected multi-region Azure infrastructure supporting 50M+ transactions/month
+- Led migration of 200+ on-premises applications to Azure, achieving 40% cost reduction
+- Implemented Infrastructure as Code using Terraform, managing 500+ cloud resources
+- Established DevOps practices across 8 engineering teams
+- Designed disaster recovery strategy with 99.99% uptime SLA
+
+Senior Cloud Engineer | CloudFirst Consulting | 2017 - 2020
+- Designed and deployed Kubernetes clusters for containerized microservices
+- Built CI/CD pipelines using Azure DevOps and GitHub Actions
+- Implemented zero-trust security model for cloud environments
+- Automated infrastructure provisioning reducing deployment time from weeks to hours
+- Managed $2M annual cloud spend with 25% optimization savings
+
+Cloud Engineer | TechStart Ltd. | 2014 - 2017
+- Deployed and managed AWS infrastructure (EC2, S3, RDS, Lambda)
+- Implemented monitoring and alerting using CloudWatch and Prometheus
+- Created automated backup and recovery procedures
+- Provided L3 support for cloud infrastructure issues
+
+Systems Administrator | DataCorp | 2013 - 2014
+- Managed Windows Server and Linux environments
+- Administered Active Directory, DNS, and DHCP services
+- Performed hardware and software maintenance
+
+EDUCATION
+
+MSc Cloud Computing - University of Manchester, 2013
+BSc Computer Science - Imperial College London, 2011
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional
+- Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Certified: Terraform Associate
+- TOGAF 9 Certified
+
+PROJECTS
+
+Enterprise Cloud Migration Framework
+- Developed reusable migration framework used across 15+ client engagements
+- Technologies: Azure, Terraform, Python, PowerShell
+
+Open Source Kubernetes Operator
+- Built a custom Kubernetes operator for automated database scaling
+- 200+ GitHub stars, 50+ forks
+- Technologies: Go, Kubernetes, Docker
+
+LANGUAGES
+English (Fluent), Mandarin (Native), Cantonese (Fluent)

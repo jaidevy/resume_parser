@@ -1,0 +1,23 @@
+Hi, my name is Priya Sharma.
+
+I recently graduated from IIT Delhi with a B.Tech in Computer Science (2024). I'm looking for entry-level software developer positions.
+
+You can reach me at priya.sharma24@gmail.com or call me at +91-8765432109. I'm based in New Delhi, India.
+
+During college, I did a few internships:
+
+First, I worked at Google India as a Software Engineering Intern from May to August 2023. I worked on the search team, specifically on improving autocomplete suggestions using machine learning. I built a prototype that improved suggestion relevance by 12%.
+
+Before that, I interned at Flipkart from Jan to April 2023, where I worked on their backend order processing system. I learned a lot about Java, Spring Boot, and microservices architecture. I also wrote unit tests using JUnit.
+
+I also did a summer internship at a startup called TechForGood in 2022, where I built a React-based dashboard for an NGO to track their community programs.
+
+Some of the things I know: Python, Java, C++, JavaScript, React, Node.js, Django, SQL, MongoDB, Git, Docker, Linux, Machine Learning basics, Data Structures and Algorithms.
+
+I was part of the ACM ICPC team at IIT Delhi (2022-2023) and we reached the regional finals. I also won the Smart India Hackathon 2023 (Software Edition).
+
+My GitHub profile is at github.com/priyasharma-dev where you can see some of my projects.
+
+I speak English and Hindi fluently.
+
+Thanks for considering my application!

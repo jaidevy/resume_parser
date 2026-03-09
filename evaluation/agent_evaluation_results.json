@@ -1,0 +1,37 @@
+{
+  "validation": {
+    "total": 8,
+    "passed": 6,
+    "accuracy": 0.75
+  },
+  "parsing": {
+    "total": 3,
+    "passed": 3,
+    "accuracy": 1.0
+  },
+  "extraction": {
+    "total": 23,
+    "passed": 23,
+    "accuracy": 1.0
+  },
+  "standardization": {
+    "total": 4,
+    "passed": 4,
+    "accuracy": 1.0
+  },
+  "error_handling": {
+    "total": 4,
+    "passed": 4,
+    "accuracy": 1.0
+  },
+  "performance": {
+    "parse_time": 0.02891707420349121,
+    "extract_time": 6.557571887969971,
+    "standardize_time": 2.574920654296875e-05,
+    "total_time": 6.586514711380005,
+    "within_budget": true,
+    "accuracy": 1.0
+  },
+  "overall_accuracy": 0.9583333333333334,
+  "timestamp": "2026-03-08T19:11:01.410033"
+}

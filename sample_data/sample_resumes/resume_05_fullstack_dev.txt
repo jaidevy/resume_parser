@@ -1,0 +1,77 @@
+RESUME
+
+NAME: Rajesh Kumar Patel
+GENDER: Male
+DATE OF BIRTH: 15-Mar-1990
+EMAIL: rajesh.patel@email.com
+CONTACT: +91-9876543210
+ADDRESS: Bangalore, Karnataka, India
+LINKEDIN: https://linkedin.com/in/rajeshpatel
+
+OBJECTIVE:
+To obtain a challenging position as a Full Stack Developer where I can leverage my 6 years of experience in Java, Spring Boot, and Angular to contribute to organizational growth.
+
+TECHNICAL SKILLS:
+Languages: Java, JavaScript, TypeScript, Python, SQL
+Frameworks: Spring Boot, Spring MVC, Angular, React
+Databases: MySQL, PostgreSQL, Oracle, MongoDB
+Tools: Git, Maven, Jenkins, Docker, SonarQube
+Cloud: AWS (EC2, S3, Lambda, RDS), Azure Basics
+Testing: JUnit, Mockito, Selenium, Jasmine
+Methodologies: Agile, Scrum, Waterfall
+
+PROFESSIONAL EXPERIENCE:
+
+1) Senior Full Stack Developer
+   Company: Infosys Limited
+   Duration: July 2021 - Present (3+ years)
+   Responsibilities:
+   - Developed RESTful microservices using Spring Boot and Java 17
+   - Built responsive front-end applications using Angular 15
+   - Implemented CI/CD pipelines using Jenkins and Docker
+   - Performed code reviews and mentored 3 junior developers
+   - Optimized database queries reducing response time by 45%
+   - Participated in sprint planning and daily stand-ups
+
+2) Full Stack Developer
+   Company: Wipro Technologies
+   Duration: June 2019 - June 2021 (2 years)
+   Responsibilities:
+   - Developed web applications using Java/Spring MVC and Angular
+   - Created unit tests achieving 90% code coverage using JUnit
+   - Integrated third-party APIs for payment processing
+   - Worked with Oracle and MySQL databases
+   - Collaborated with QA team for defect resolution
+
+3) Junior Developer
+   Company: TCS (Tata Consultancy Services)
+   Duration: August 2017 - May 2019 (1 year 10 months)
+   Responsibilities:
+   - Developed Java-based backend services
+   - Created SQL stored procedures and views
+   - Fixed bugs and implemented minor feature enhancements
+   - Wrote technical documentation
+
+EDUCATION:
+
+Bachelor of Technology (B.Tech) in Computer Science and Engineering
+Visvesvaraya Technological University, 2017
+CGPA: 8.2/10
+
+Higher Secondary (12th)
+Delhi Public School, 2013
+Percentage: 85%
+
+CERTIFICATIONS:
+* Oracle Certified Professional: Java SE 11 Developer
+* AWS Certified Developer - Associate
+* Certified ScrumMaster (CSM)
+
+LANGUAGES KNOWN:
+English, Hindi, Kannada, Gujarati
+
+DECLARATION:
+I hereby declare that all the information provided above is true to the best of my knowledge.
+
+Place: Bangalore
+Date: January 2024

@@ -1,0 +1,86 @@
+Alex Kim
+Machine Learning Engineer
+alex.kim@protonmail.com
++82-10-1234-5678
+Seoul, South Korea
+https://linkedin.com/in/alexkim-ml
+https://github.com/alexkim-ml
+
+---
+
+SUMMARY
+Machine Learning Engineer with 5 years of experience building and deploying production ML systems. Specialized in NLP, computer vision, and MLOps. Strong background in Python, PyTorch, and cloud-based ML infrastructure.
+
+---
+
+SKILLS
+Machine Learning: PyTorch, TensorFlow, scikit-learn, Hugging Face, ONNX
+NLP: Transformers, BERT, GPT, spaCy, NLTK, Sentiment Analysis, NER
+Computer Vision: OpenCV, YOLO, ResNet, Image Segmentation
+Data Engineering: pandas, NumPy, Apache Spark, Airflow, dbt
+MLOps: MLflow, Kubeflow, Docker, Kubernetes, CI/CD
+Cloud: AWS SageMaker, Azure ML, GCP Vertex AI
+Programming: Python, R, SQL, Java, Scala
+Visualization: matplotlib, seaborn, Plotly, Streamlit
+
+---
+
+EXPERIENCE
+
+Machine Learning Engineer | Samsung Electronics | 2022-Present
+- Developed NLP pipeline for automated customer feedback analysis (95% accuracy)
+- Built real-time object detection system using YOLO v8 for quality inspection
+- Deployed ML models on AWS SageMaker with auto-scaling infrastructure
+- Reduced model training time by 40% through distributed training optimization
+- Published 2 internal research papers on transfer learning techniques
+
+ML Engineer | Kakao Corp | 2020-2022
+- Built recommendation engine serving 10M+ users using collaborative filtering
+- Implemented A/B testing framework for ML model evaluation
+- Created data pipelines using Apache Spark and Airflow
+- Developed sentiment analysis model for social media monitoring
+- Mentored 2 junior ML engineers
+
+Data Scientist Intern | NAVER | 2019-2020
+- Analyzed user behavior data using Python and SQL
+- Built prototype NLP models for search query understanding
+- Created Streamlit dashboards for model performance monitoring
+
+---
+
+EDUCATION
+MS Computer Science (AI/ML Focus) - KAIST, 2019
+BS Computer Science - Seoul National University, 2017
+
+---
+
+CERTIFICATIONS
+- AWS Machine Learning Specialty
+- Google Professional Machine Learning Engineer
+- Deep Learning Specialization (Coursera - Andrew Ng)
+- TensorFlow Developer Certificate
+
+---
+
+PUBLICATIONS
+1. "Efficient Transfer Learning for Korean NLP Tasks" - EMNLP Workshop 2023
+2. "Scalable Object Detection for Manufacturing QA" - Samsung Technical Journal 2022
+
+---
+
+PROJECTS
+
+Korean Sentiment Analysis Dataset (Open Source)
+- Created benchmark dataset with 100K labeled Korean text samples
+- 500+ GitHub stars, used by 20+ research groups
+- Technologies: Python, PyTorch, Hugging Face
+
+AutoML Pipeline Framework
+- Built automated ML pipeline for rapid model prototyping
+- Supports classification, regression, and NLP tasks
+- Technologies: Python, scikit-learn, MLflow, Docker
+
+---
+
+LANGUAGES
+Korean (Native), English (Professional), Japanese (Conversational)

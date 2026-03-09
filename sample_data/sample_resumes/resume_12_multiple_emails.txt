@@ -1,0 +1,83 @@
+AHMED AL-RASHIDI
+Senior Data Engineer
+
+Contact Information:
+  Primary Email: ahmed.rashidi@techcorp.com
+  Personal Email: ahmed.r@gmail.com
+  University Email: a.rashidi@alumni.kaust.edu.sa
+  Phone (Work): +966 55 123 4567
+  Phone (Personal): +966 50 987 6543
+  Location: Riyadh, Saudi Arabia
+
+LinkedIn: https://linkedin.com/in/ahmedrashidi
+GitHub: https://github.com/arashidi
+
+──────────────────────────────────────────
+
+PROFESSIONAL SUMMARY
+
+Data engineer with 6 years of experience building large-scale data
+pipelines and analytics platforms. Expert in cloud-native architectures
+on AWS and Azure. Strong background in real-time streaming systems.
+
+──────────────────────────────────────────
+
+WORK EXPERIENCE
+
+Senior Data Engineer | Saudi Aramco Digital
+Dhahran, Saudi Arabia | January 2022 – Present
+• Designed and deployed a real-time IoT data pipeline processing
+  2 million events/second using Apache Kafka and Spark Streaming
+• Built a data lakehouse on Azure Synapse Analytics reducing
+  query costs by 45%
+• Led migration of 15 legacy ETL jobs from on-prem SSIS to
+  Azure Data Factory
+• Mentored 4 junior engineers and conducted bi-weekly code reviews
+Technologies: Azure Synapse, Databricks, Kafka, Spark, Python, SQL
+
+Data Engineer | Noon.com
+Riyadh, Saudi Arabia | March 2020 – December 2021
+• Developed customer segmentation pipeline processing 50M+ user
+  profiles for personalized recommendations
+• Implemented data quality framework using Great Expectations,
+  reducing data incidents by 70%
+• Optimized Redshift queries reducing average dashboard load time
+  from 12s to 2s
+Technologies: AWS (Redshift, Glue, S3, Lambda), Python, Airflow
+
+Junior Data Engineer | STC (Saudi Telecom Company)
+Riyadh, Saudi Arabia | August 2018 – February 2020
+• Built automated reporting pipelines using Apache Airflow
+• Maintained data warehouse schemas serving 200+ internal reports
+• Wrote Python ETL scripts for telecom CDR data processing
+Technologies: Oracle, PostgreSQL, Python, Airflow, Linux
+
+──────────────────────────────────────────
+
+EDUCATION
+
+Master of Science in Computer Science
+King Abdullah University of Science and Technology (KAUST)
+2016 – 2018 | GPA: 3.9/4.0
+
+Bachelor of Science in Information Technology
+King Saud University, Riyadh
+2012 – 2016 | GPA: 4.85/5.0
+
+──────────────────────────────────────────
+
+CERTIFICATIONS
+- AWS Certified Data Analytics – Specialty
+- Microsoft Certified: Azure Data Engineer Associate (DP-203)
+- Databricks Certified Data Engineer Professional
+- Google Cloud Professional Data Engineer
+
+SKILLS
+Python, SQL, Scala, Apache Spark, Apache Kafka, Apache Airflow,
+AWS (Redshift, Glue, S3, Lambda, EMR), Azure (Synapse, Data Factory,
+Databricks, Event Hubs), GCP (BigQuery, Dataflow), PostgreSQL, MongoDB,
+Hadoop, Hive, dbt, Great Expectations, Docker, Kubernetes, Terraform,
+CI/CD, Git, Linux, Data Modeling, ETL/ELT, Data Governance
+
+LANGUAGES
+Arabic (Native), English (Fluent)

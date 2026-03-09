@@ -1,0 +1,52 @@
+Emily Watson                                         emily.watson92@gmail.com
+Project Manager & Business Analyst                   Cell: 1-303-555-0147
+Denver, Colorado                                     LinkedIn: linkedin.com/in/emilywatson
+
+=== PROFESSIONAL SUMMARY ===
+Certified PMP and Business Analyst with 8 years of experience managing cross-functional teams and delivering enterprise software projects. Expertise in Agile methodologies, stakeholder management, and Power Platform solutions.
+
+=== KEY SKILLS ===
+Project Management: PMP, Agile, Scrum, Kanban, PRINCE2, Risk Management, Budgeting
+Business Analysis: Requirements Gathering, User Stories, Process Mapping, Gap Analysis
+Tools: Jira, Confluence, Azure DevOps, Microsoft Project, SharePoint, Power BI
+Power Platform: Power Automate, Power Apps, Copilot Studio, Dataverse
+Technical: SQL, Python (basic), Excel (advanced), Visio
+
+=== WORK HISTORY ===
+
+SENIOR PROJECT MANAGER | Accenture Digital | Feb 2021 - Present
+- Managing portfolio of 5 concurrent projects with combined budget of $4.5M
+- Led implementation of Power Platform solutions across 3 business units
+- Achieved 95% on-time delivery rate across all managed projects
+- Conducted stakeholder workshops with C-level executives
+- Built Power Automate flows for project status reporting automation
+- Implemented Copilot Studio chatbot for internal IT help desk
+
+PROJECT MANAGER | Deloitte Consulting | Mar 2018 - Jan 2021
+- Managed Agile software development projects for Fortune 500 clients
+- Led team of 15 developers, designers, and QA engineers
+- Delivered CRM implementation project 2 weeks ahead of schedule
+- Facilitated daily stand-ups, sprint planning, and retrospectives
+- Created project dashboards using Power BI and Azure DevOps
+
+BUSINESS ANALYST | IBM | Jun 2016 - Feb 2018
+- Gathered and documented business requirements for ERP system
+- Created detailed user stories, acceptance criteria, and process flows
+- Conducted UAT sessions with business stakeholders
+- Analyzed data using SQL and Excel to support business decisions
+
+=== EDUCATION ===
+MBA, Technology Management — University of Denver (2016)
+BS, Information Systems — Colorado State University (2014)
+
+=== CERTIFICATIONS ===
+- Project Management Professional (PMP) - PMI (2019)
+- Certified ScrumMaster (CSM) - Scrum Alliance (2018)
+- Microsoft Certified: Power Platform Fundamentals (PL-900) (2023)
+- ITIL Foundation v4 (2020)
+
+=== VOLUNTEER ===
+Mentor, Women in Tech Denver - 2020-Present
+Speaker, Denver PMP Study Group - 2021-Present
+
+Languages: English (Native)

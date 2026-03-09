@@ -1,0 +1,99 @@
+LISA ANDERSSON
+Technical Program Manager | Stockholm, Sweden
+lisa.andersson@outlook.com | +46 70 123 4567
+LinkedIn: https://linkedin.com/in/lisaandersson
+
+────────────────────────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+────────────────────────────────────────────────────────────────────────
+Technical program manager with 9 years of experience delivering
+complex software programs across distributed teams. Expertise in
+Agile at scale (SAFe), stakeholder management, and cloud migrations.
+Track record of leading programs worth $10M+ from inception to launch.
+
+────────────────────────────────────────────────────────────────────────
+WORK EXPERIENCE
+────────────────────────────────────────────────────────────────────────
+
++------------------+---------------------------------------------+
+| Company          | Spotify AB                                  |
+| Role             | Senior Technical Program Manager             |
+| Location         | Stockholm, Sweden                            |
+| Period           | April 2021 – Present                         |
++------------------+---------------------------------------------+
+| Responsibilities                                                 |
+| • Led cross-functional program of 8 squads (60+ engineers) for   |
+|   Spotify's content delivery platform redesign                   |
+| • Managed $12M annual budget with quarterly OKR tracking          |
+| • Reduced release cycle time from 6 weeks to 2 weeks through     |
+|   CI/CD pipeline improvements                                    |
+| • Drove adoption of SAFe 5.0 across the Audio Experience tribe   |
+| Achievements                                                     |
+| • Delivered platform migration 3 weeks ahead of schedule         |
+| • Achieved 99.95% uptime SLA for streaming services              |
++------------------------------------------------------------------+
+
++------------------+---------------------------------------------+
+| Company          | Klarna Bank AB                               |
+| Role             | Technical Program Manager                    |
+| Location         | Stockholm, Sweden                            |
+| Period           | June 2018 – March 2021                       |
++------------------+---------------------------------------------+
+| Responsibilities                                                 |
+| • Coordinated 5 engineering teams for payment platform migration |
+| • Implemented risk management framework reducing project risks   |
+|   by 40%                                                         |
+| • Facilitated PI planning events for 100+ participants            |
+| • Managed vendor relationships with 3 external development shops  |
+| Achievements                                                     |
+| • Successfully migrated 200M+ transactions to new platform       |
+| • Reduced incident response time from 4 hours to 30 minutes      |
++------------------------------------------------------------------+
+
++------------------+---------------------------------------------+
+| Company          | Ericsson                                     |
+| Role             | Project Manager                              |
+| Location         | Stockholm, Sweden                            |
+| Period           | August 2015 – May 2018                       |
++------------------+---------------------------------------------+
+| Responsibilities                                                 |
+| • Managed 5G network software delivery projects for APAC clients |
+| • Led team of 15 engineers across 3 time zones                   |
+| • Created project plans, WBS, and resource allocation models     |
+| Achievements                                                     |
+| • Delivered 5G trial network for major Japanese carrier on time   |
++------------------------------------------------------------------+
+
+────────────────────────────────────────────────────────────────────────
+EDUCATION
+────────────────────────────────────────────────────────────────────────
+
++---------------------------------+----------------------------------+
+| Degree                          | Institution                      |
++---------------------------------+----------------------------------+
+| MBA, Technology Management      | Stockholm School of Economics    |
+| 2013 – 2015                     | Grade: Pass with Distinction     |
++---------------------------------+----------------------------------+
+| B.Sc. Computer Science          | Uppsala University               |
+| 2009 – 2013                     | Grade: VG (Very Good)            |
++---------------------------------+----------------------------------+
+
+────────────────────────────────────────────────────────────────────────
+SKILLS
+────────────────────────────────────────────────────────────────────────
+Program Management, Agile (SAFe 5.0, Scrum, Kanban), Jira, Confluence,
+MS Project, Power BI, Stakeholder Management, Risk Management,
+Budget Management, Vendor Management, CI/CD, Cloud (AWS, Azure, GCP),
+OKRs, Release Management, Incident Management, ITIL
+
+────────────────────────────────────────────────────────────────────────
+CERTIFICATIONS
+────────────────────────────────────────────────────────────────────────
+- SAFe 5 Program Consultant (SPC)
+- PMP (Project Management Professional)
+- Certified Scrum Master (CSM)
+- ITIL Foundation v4
+- AWS Cloud Practitioner
+
+LANGUAGES
+Swedish (Native), English (Fluent), German (Intermediate), Norwegian (Conversational)

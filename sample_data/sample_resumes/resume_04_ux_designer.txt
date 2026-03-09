@@ -1,0 +1,42 @@
+Maria Garcia Lopez
+
+maria.garcia@email.com | +34 612 345 678
+Barcelona, Spain
+
+Hi! I'm Maria, a passionate UX/UI Designer and Front-End Developer with 3 years of experience creating beautiful and intuitive digital experiences. I love turning complex problems into simple, elegant solutions.
+
+What I Do Best:
+Figma, Adobe XD, Sketch, HTML5, CSS3, JavaScript, React, Vue.js, Tailwind CSS, User Research, Wireframing, Prototyping, Design Systems, Accessibility (WCAG), Responsive Design
+
+Where I've Worked:
+
+DesignStudio Barcelona (2022-Present) - UX/UI Designer
+I redesign web and mobile apps for clients across Europe. Some highlights:
+* Redesigned e-commerce platform increasing conversion by 35%
+* Created a design system with 200+ reusable components
+* Conducted user research with 100+ participants
+* Led design sprints for 3 major product launches
+
+FreelanceWebDev (2021-2022) - Freelance Front-End Developer
+Built websites and web apps for small businesses and startups.
+* Developed 20+ responsive websites using React and Vue.js
+* Implemented accessibility standards (WCAG 2.1 AA)
+* Created custom WordPress themes and plugins
+
+My Education:
+- Bachelor in Digital Design, Universitat de Barcelona (2021)
+- UX Design Certificate, Google (2022)
+- Front-End Development Nanodegree, Udacity (2021)
+
+Things I'm Proud Of:
+
+Barcelona Civic App:
+A mobile app helping citizens report urban issues. Won 2nd place at Barcelona Hackathon 2023.
+Built with: React Native, Node.js, MongoDB
+
+Design System Library:
+Open-source React component library with 50+ components. 150+ GitHub stars.
+Built with: React, Storybook, Tailwind CSS
+
+I speak:
+Spanish (Native), Catalan (Native), English (Professional), Portuguese (Basic)

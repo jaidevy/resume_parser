@@ -1,0 +1,59 @@
+John Michael Doe
+Senior Software Engineer
+
+Contact Information:
+Email: john.doe@email.com
+Phone: +1-555-123-4567
+Location: San Francisco, CA, USA
+LinkedIn: https://linkedin.com/in/johndoe
+GitHub: https://github.com/johndoe
+
+Professional Summary:
+Results-driven Senior Software Engineer with 7+ years of experience in building scalable web applications and microservices. Proficient in Python, Django, and cloud technologies. Passionate about clean code, automated testing, and continuous delivery.
+
+Skills:
+Python, Django, Flask, JavaScript, React, TypeScript, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, AWS, Azure, CI/CD, Git, REST APIs, GraphQL, Agile, Scrum, TDD
+
+Work Experience:
+
+Senior Software Engineer | TechCorp Inc. | Jan 2021 - Present
+- Led development of a microservices platform serving 2M+ daily active users
+- Designed and implemented REST APIs using Django REST Framework
+- Reduced deployment time by 60% through CI/CD pipeline optimization
+- Mentored 4 junior developers and conducted code reviews
+
+Software Engineer | InnovateTech Solutions | Mar 2018 - Dec 2020
+- Built full-stack web applications using Python/Django and React
+- Implemented automated testing, achieving 95% code coverage
+- Migrated legacy monolith to microservices architecture on AWS
+- Collaborated with product team to define technical requirements
+
+Junior Developer | StartupXYZ | Jun 2016 - Feb 2018
+- Developed RESTful APIs for mobile application backend
+- Implemented user authentication and authorization systems
+- Created automated deployment scripts using Docker
+- Participated in agile sprint planning and retrospectives
+
+Education:
+
+Bachelor of Science in Computer Science
+Stanford University, 2016
+GPA: 3.8/4.0
+
+Certifications:
+- AWS Certified Solutions Architect - Associate (2022)
+- Microsoft Certified: Azure Developer Associate (2023)
+- Certified Kubernetes Administrator (CKA) (2021)
+
+Projects:
+
+Open Source Contribution - Django REST Framework
+- Contributed pagination improvements and bug fixes
+- 50+ GitHub stars on personal fork
+
+Personal Blog Platform
+- Built with Django, React, and PostgreSQL
+- Deployed on AWS with Docker and CI/CD pipeline
+- Technologies: Python, Django, React, PostgreSQL, Docker, AWS
+
+Languages: English (Native), Spanish (Intermediate), French (Basic)

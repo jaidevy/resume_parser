@@ -264,7 +264,7 @@ class PromptEvaluator:
             print(f"  Score: {score}/{checks} ({case_result['accuracy']:.0%})")
             print(f"  Time: {elapsed:.2f}s")
             for detail in details:
-                status = "✅" if detail["passed"] else "❌"
+                status = "[Good]" if detail["passed"] else "[Fail]"
                 print(f"  {status} {detail['field']}: {detail['message']}")
 
         # Aggregate

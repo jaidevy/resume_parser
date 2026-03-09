@@ -131,7 +131,7 @@ class ResumeUploadSerializer(serializers.Serializer):
     """Serializer for resume file upload."""
 
     file = serializers.FileField(
-        help_text="Resume file (.pdf, .docx, .doc, .rtf, .txt, .png, .jpg)"
+        help_text="Resume file (.pdf, .docx, .rtf, .txt, .png, .jpg)"
     )
     source = serializers.ChoiceField(
         choices=ResumeRecord.Source.choices,

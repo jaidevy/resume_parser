@@ -3695,3 +3695,23 @@ INFO 2026-03-09 15:17:54,116 basehttp "GET /api/v1/resumes/ec845536-6cbd-4394-b1
 INFO 2026-03-09 15:17:56,205 basehttp "GET /api/v1/health/ HTTP/1.1" 200 311
 INFO 2026-03-09 15:17:58,261 basehttp "GET /api/v1/resumes/ HTTP/1.1" 200 5212
 INFO 2026-03-09 15:18:00,442 basehttp "GET /api/v1/resumes/ec845536-6cbd-4394-b167-ae5eabc721a7/logs/ HTTP/1.1" 200 4114
+INFO 2026-03-09 15:45:53,517 basehttp "GET /api/v1/health/ HTTP/1.1" 200 311
+INFO 2026-03-09 15:45:55,596 basehttp "GET /api/v1/resumes/ HTTP/1.1" 200 5212
+INFO 2026-03-09 15:45:59,826 basehttp "GET /api/v1/health/ HTTP/1.1" 200 311
+INFO 2026-03-09 15:46:01,883 basehttp "GET /api/v1/resumes/ HTTP/1.1" 200 5212
+INFO 2026-03-09 15:46:05,400 excel_storage Created new Excel workbook: D:\Github\resume_parser\outputs/resume_data.xlsx
+INFO 2026-03-09 15:46:05,793 validator Validation complete for 'new Aadhar.pdf': valid=True, type=.pdf
+INFO 2026-03-09 15:46:05,795 validator File saved: D:\Github\resume_parser\uploads\612f8eaa6f8d438fb48667e28d0718ee_new Aadhar.pdf
+INFO 2026-03-09 15:46:06,007 parser Attempting Document Intelligence extraction for D:\Github\resume_parser\uploads\612f8eaa6f8d438fb48667e28d0718ee_new Aadhar.pdf (.pdf)
+INFO 2026-03-09 15:46:20,693 document_intelligence DI raw output saved to D:\Github\resume_parser\outputs\di_raw_612f8eaa6f8d438fb48667e28d0718ee_new Aadhar_20260309_154620.txt
+INFO 2026-03-09 15:46:20,695 document_intelligence Document Intelligence extracted 1776 chars, 1 pages, 0 tables
+INFO 2026-03-09 15:46:22,032 extractor Using OpenAI for extraction
+INFO 2026-03-09 15:46:29,913 extractor LLM raw response saved to D:\Github\resume_parser\outputs\llm_raw_Jaidev_Yadav_20260309_154629.json
+INFO 2026-03-09 15:46:29,915 extractor LLM extraction complete for: Jaidev Yadav
+INFO 2026-03-09 15:46:30,374 excel_storage Excel record created at row 2: 0330dd4663bbb4a4
+INFO 2026-03-09 15:46:30,674 standardizer Standardized resume generated: D:\Github\resume_parser\outputs\Standardized_Resume_Jaidev_Yadav_20260309_154630.docx
+INFO 2026-03-09 15:46:30,784 basehttp "POST /api/v1/resumes/ HTTP/1.1" 201 1765
+INFO 2026-03-09 15:46:32,841 basehttp "GET /api/v1/resumes/87929717-54e2-496f-abd2-440a9edd87af/ HTTP/1.1" 200 1765
+INFO 2026-03-09 15:46:34,952 basehttp "GET /api/v1/health/ HTTP/1.1" 200 311
+INFO 2026-03-09 15:46:37,007 basehttp "GET /api/v1/resumes/ HTTP/1.1" 200 5538
+INFO 2026-03-09 15:46:39,163 basehttp "GET /api/v1/resumes/87929717-54e2-496f-abd2-440a9edd87af/logs/ HTTP/1.1" 200 2020
